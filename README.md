@@ -2,7 +2,7 @@
 
 安卓离线睡前故事机。本仓库是固定的APK发布及应用内更新来源。
 
-**当前正式版本：1.2.0（versionCode 3）**
+**当前待发布版本：1.2.0（versionCode 3）。APK已构建并校验，正式Release附件待上传；以下固定下载链接将在发布后生效。**
 
 - [下载最新APK](https://github.com/fuqiang12138/moon-story-house-app/releases/latest/download/moonstory.apk)
 - [查看最新版本与更新说明](https://github.com/fuqiang12138/moon-story-house-app/releases/latest)
