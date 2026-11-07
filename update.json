@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "application_id": "cn.moonstory.app",
-  "version_code": 3,
-  "version_name": "1.2.0",
-  "apk_url": "https://github.com/fuqiang12138/moon-story-house-app/releases/download/v1.2.0/moonstory.apk",
-  "apk_size": 218204779,
-  "sha256": "1eb351f6ffba932b80530e745d4435020b8960fa5979a949cc111e93730fa804",
+  "version_code": 4,
+  "version_name": "1.2.1",
+  "apk_url": "https://github.com/fuqiang12138/moon-story-house-app/releases/download/v1.2.1/moonstory.apk",
+  "apk_size": 63114658,
+  "sha256": "daa95f5a060e34e86fb53de65b260fb267558e6f9f4f078bfcc992f13116576b",
   "min_sdk": 26,
-  "release_notes": "新增应用内更新：打开软件自动检查GitHub新版，设置页可手动检查。\n支持App内下载安装包、下载进度、取消及重试，下载后调用系统安装。\n安装前核对文件完整性、应用包名、版本及原签名；首次需允许本软件安装应用。\n保持原有20篇完整故事音频、100种音色、离线连续播放、故事编辑和备份功能。"
+  "release_notes": "保留 20 篇暖月女声完整录音，新增 3 种轻量离线音色。自编、改写和导入故事先播放开头，后文边播边生成。\n安装包约 60 MiB，保留应用内检查更新、故事库、定时和锁屏播放。"
 }
